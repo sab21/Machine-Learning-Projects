@@ -44,16 +44,16 @@ library('stringr') # string manipulation
 library('forcats') # factor manipulation
 
 # specific visualisation
-library('ggrepel') # visualisation
-library('ggridges') # visualisation
+#library('ggrepel') # visualisation
+#library('ggridges') # visualisation
 library('ggExtra') # visualisation
-library('ggforce') # visualisation
-library('viridis') # visualisation
+#library('ggforce') # visualisation
+#library('viridis') # visualisation
 
 # specific data manipulation
-library('lazyeval') # data wrangling
-library('broom') # data wrangling
-library('purrr') # string manipulation
+#library('lazyeval') # data wrangling
+#library('broom') # data wrangling
+#library('purrr') # string manipulation
 
 # Date plus forecast
 library('lubridate') # date and time
@@ -61,7 +61,7 @@ library('timeDate') # date and time
 library('tseries') # time series analysis
 library('forecast') # time series analysis
 library('prophet') # time series analysis
-library('timetk') # time series analysis
+
 
 # Maps / geospatial
 library('geosphere') # geospatial locations
